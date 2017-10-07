@@ -1,0 +1,25 @@
+{
+  "name": "ke-fibers",
+  "description": "Kmrweb.net async management",
+  "keywords": [
+    "async, fibers, synchronized"
+  ],
+  "homepage": "http://www.kmrweb.net/",
+  "license": "MIT",
+  "version": "1.0.0",
+  "author": {
+    "name": "michihiro kimura",
+    "email": "kimura@kmrweb.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.org/m0kimura/ke-fibers.git"
+  },
+  "dependencies": {
+    "fibers": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=0.5.2"
+  },
+  "main": "./ke-fibers.js"
+}
